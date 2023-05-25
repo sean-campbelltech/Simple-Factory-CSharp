@@ -1,4 +1,4 @@
-namespace FactoryPattern
+namespace FactoryPattern.Payments.Enums
 {
     public enum PaymentMethod
     {

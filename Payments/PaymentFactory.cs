@@ -2,8 +2,10 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using FactoryPattern.Payments.Enums;
+using FactoryPattern.Payments.Impl;
 
-namespace FactoryPattern
+namespace FactoryPattern.Payments
 {
     public class PaymentFactory
     {
